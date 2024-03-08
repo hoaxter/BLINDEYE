@@ -1,6 +1,6 @@
 # BLINDEYE
 
-![Uploading 534-5347070_the-chained-eye-holy-symbol-demon-symbols-hd.png…]()
+![534-5347070_the-chained-eye-holy-symbol-demon-symbols-hd](https://github.com/hoaxter/BLINDEYE/assets/141468297/39c6bccb-d66c-4ed1-934b-fde69be13e3a)
 
 
 ## Description
