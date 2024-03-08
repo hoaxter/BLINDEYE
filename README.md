@@ -10,11 +10,18 @@ The Port Scanner is a Python script designed to scan for open ports on specified
 - Provides colorful console output for better readability.
 
 ## Usage
-1. Clone the repository or download the script file.
-2. Install the required dependencies:
-   pip install colorama
-3. Run the script:
-4. Follow the on-screen instructions to specify the target IP address(es) or range, port range, and whitelist.
+```
+git clone https://github.com/hoaxter/BLINDEYE
+```
+```
+cd BLINDEYE
+```
+```
+pip install -r requirements.txt
+```
+```
+python BLINDEYE.py 
+```
 
 ## Contributions
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please feel free to open an issue or submit a pull request.
