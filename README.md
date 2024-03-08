@@ -1,6 +1,6 @@
 # BLINDEYE
 
-![534-5347070_the-chained-eye-holy-symbol-demon-symbols-hd](https://github.com/hoaxter/BLINDEYE/assets/141468297/39c6bccb-d66c-4ed1-934b-fde69be13e3a)
+![534-5347070_the-chained-eye-holy-symbol-demon-symbols-hd-fotor-bg-remover-20240308124933](https://github.com/hoaxter/BLINDEYE/assets/141468297/7fd05d77-f4fd-47bb-a8a9-2107f471ddcf)
 
 
 ## Description
