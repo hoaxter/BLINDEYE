@@ -1,6 +1,6 @@
 # BLINDEYE
 
-![the_blind_eye_by_eileenmh123_debs95h-fullview-fotor-bg-remover-2024030812215](https://github.com/hoaxter/BLINDEYE/assets/141468297/3a4b691e-53b1-41f5-9ae2-63ba0aca7cdc)
+![Uploading 534-5347070_the-chained-eye-holy-symbol-demon-symbols-hd.png…]()
 
 
 ## Description
