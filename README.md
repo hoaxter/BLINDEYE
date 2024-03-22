@@ -14,7 +14,7 @@ The Port Scanner is a Python script designed to scan for open ports on specified
 
 ## Usage
 ```
-git clone https://github.com/hoaxter/BLINDEYE
+git clone https://www.github.com/hoaxter/BLINDEYE
 ```
 ```
 cd BLINDEYE
