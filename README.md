@@ -1,6 +1,6 @@
 # BLINDEYE
 
-![534-5347070_the-chained-eye-holy-symbol-demon-symbols-hd-fotor-bg-remover-20240308124933](https://github.com/hoaxter/BLINDEYE/assets/141468297/7fd05d77-f4fd-47bb-a8a9-2107f471ddcf)
+![fc2c0f9363baad40fdbb46e2804f3c6a--egyptian-eye-tattoos-tattoos-with-meaning-fotor-bg-remover-20240324135151](https://github.com/hoaxter/BLINDEYE/assets/141468297/a2b2d588-4b05-462e-9abc-55e20c0ccf6f)
 
 
 ## Description
